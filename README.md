@@ -1,5 +1,5 @@
 
-# Random Forest Classifier Tutorial
+# Random Forest Tutorial
 
 **Author:** Deepak Raj Manickam  
 **Student ID:** 23070139  
